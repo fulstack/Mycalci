@@ -39,6 +39,29 @@
 }
 
 .eqcolr {
+	background-color: #E74C3C;
+}
+
+.key:hover {
+	background-color: #F2F1EF;
+}
+
+.keycolrhover:hover {
+	background-color: #F5AB35;
+}
+
+.eqcolrhover:hover {
 	background-color: #F2784B;
 }
+
+
+
+
+
+
+
+
+
+
+
 
