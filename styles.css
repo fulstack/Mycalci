@@ -5,7 +5,7 @@
 }*/
 
 #calculator {
-	width: 60vmin;
+	width: 70vmin;
 	height: 66vmin;
 	background-color: #BDC3C7;
 }
@@ -13,7 +13,7 @@
 #result {
 	height: 18vmin;
 	background-color: black;
-	line-height: 50vmin;
+	line-height: 18vmin;
 	text-align: right;
 	font-size: 9vmin;
 	color: white;
@@ -27,6 +27,7 @@
 	font-size: 3vmin;
 	border: 2px solid black;
 	padding: 0;
+	border-radius: 5px;
 }
 
 .keys {
@@ -39,7 +40,7 @@
 }
 
 .eqcolr {
-	background-color: #E74C3C;
+	background-color: #F22613;
 }
 
 .key:hover {
@@ -51,7 +52,7 @@
 }
 
 .eqcolrhover:hover {
-	background-color: #F2784B;
+	background-color: #F62459;
 }
 
 
