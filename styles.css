@@ -8,6 +8,11 @@
 	width: 70vmin;
 	height: 66vmin;
 	background-color: #BDC3C7;
+	top: 50%;
+	left: 30%;
+	right: 30%;
+	transform: translateY(-50%);
+	position: absolute;
 }
 
 #result {
